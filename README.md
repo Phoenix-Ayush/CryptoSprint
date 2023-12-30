@@ -48,7 +48,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-# project presentation
-[CryptoSprint.pptx](https://github.com/AnkitPorwal04/CryptoSprint/files/12063514/CryptoSprint.pptx)
+
 
 
